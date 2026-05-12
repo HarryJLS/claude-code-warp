@@ -2,8 +2,8 @@
   "name": "claude-code-warp",
   "description": "Official Warp terminal integrations for Claude Code",
   "owner": {
-    "name": "Warp",
-    "url": "https://warp.dev"
+    "name": "HarryJLS",
+    "url": "https://github.com/HarryJLS/claude-code-warp"
   },
   "plugins": [
     {
